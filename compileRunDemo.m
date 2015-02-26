@@ -1,0 +1,3 @@
+compileWHOEfficient
+initWorkspaceWHOGeneric
+demoWhitenedHOG
